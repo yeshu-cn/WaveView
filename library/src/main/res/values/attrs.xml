@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveView">
+        <attr name="frontWaveColor" format="color"/>
+        <attr name="behindWaveColor" format="color"/>
+        <attr name="wavelength" format="dimension"/>
+        <attr name="amplitude" format="dimension"/>
+        <attr name="waterHeight" format="dimension"/>
+        <attr name="frontWaveSpeed" format="integer"/>
+        <attr name="behindWaveSpeed" format="integer"/>
+    </declare-styleable>
+</resources>
